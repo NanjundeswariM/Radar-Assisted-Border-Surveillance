@@ -65,5 +65,8 @@ The system uses Time-of-Flight (ToF) ultrasonic sensing:
 - Naveen G
 - Nisita M
 
+## ✅ Conclusion
+This project demonstrates an efficient and low-cost approach to UAV intrusion detection using a radar-emulation system. By integrating an ESP32 with an ultrasonic sensor and MATLAB visualization, the system achieves reliable real-time monitoring with high accuracy. The implementation proves that affordable embedded systems can be effectively used for surveillance applications. With further enhancements, this system can be scaled for advanced defense and security solutions.
+
 ## 📜 License
 This project is intended for academic and research purposes.
