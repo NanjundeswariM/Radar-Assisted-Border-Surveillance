@@ -3,6 +3,27 @@
 ## 📌 Overview
 This project presents a low-cost radar-emulation system for detecting UAV intrusions using an ESP32 microcontroller and an ultrasonic sensor. It performs 360° sector scanning and provides real-time monitoring with MATLAB visualization.
 
+## 📚 Publication
+
+This work was presented and published at **ICTMIM 2026**.
+
+**Title:**
+*Sector-Scanning Ultrasonic Radar-Emulation System for Short-Range UAV Intrusion Detection*
+
+**Conference:**
+ICTMIM 2026 – International Conference
+
+**Paper ID:** ICTMIM-237
+
+**DOI:** [10.1109/ICTMIM68190.2026.11507855](https://doi.org/10.1109/ICTMIM68190.2026.11507855)
+
+**Presentation:** Online Presentation
+
+### Citation
+
+ > Nanjundeswari M., Naveen G., Nisita M., “Sector-Scanning Ultrasonic Radar-Emulation System for Short-Range UAV Intrusion Detection,” *ICTMIM 2026*, Paper ID: ICTMIM-237, 2026. DOI: 10.1109/ICTMIM68190.2026.11507855.
+
+
 ## 🎯 Features
 - 🔄 360° sector-based scanning (8 directions)
 - 📡 Real-time intrusion detection
